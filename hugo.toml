@@ -13,8 +13,8 @@ theme = "PaperMod"
 
     # Bilder für Browser-Tabs und Social Media (LinkedIn)
     [params.assets]
-        favicon = "/images/logo-square.png"
-        images = ["/images/banner.png"]
+        favicon = "/favicon.png"
+        images = ["/favicon.png"]
 
     # --- STARTSEITE (Profile Mode) ---
     # Dies ist das Herzstück deiner Landingpage
