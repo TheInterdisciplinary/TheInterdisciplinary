@@ -1,0 +1,31 @@
+<style>
+    /* 1. BRANDING (Light Mode) */
+    a { color: #003399; }
+    .button { background: #003399 !important; color: white !important; border-radius: 6px; }
+
+    /* 2. DARK MODE (Basierend auf deinem Screenshot) */
+    /* Wir nutzen jetzt den Selektor [data-theme="dark"], den wir in deinem F12-Fenster sehen */
+    
+    :root[data-theme="dark"] a,
+    [data-theme="dark"] .nav a,
+    [data-theme="dark"] .menu a,
+    [data-theme="dark"] header a,
+    [data-theme="dark"] footer a {
+        color: #ffffff !important;
+    }
+
+    /* Den Button im Dark Mode wieder auf Blau setzen, damit er nicht weiß wird */
+    :root[data-theme="dark"] .button,
+    [data-theme="dark"] .button a {
+        background: #003399 !important;
+        color: #ffffff !important;
+    }
+
+    /* Footer-Links etwas dezenter */
+    :root[data-theme="dark"] .footer a {
+        color: #b1b1b1 !important;
+    }
+
+    /* 3. LOGO-CLEANUP */
+    .logo img { filter: none !important; }
+</style>

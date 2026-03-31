@@ -7,9 +7,35 @@ theme = "PaperMod"
     env = "production"
     title = "The Interdisciplinary"
     description = "A Journal for Science, Philosophy and Society"
-    # Das aktiviert das "Magazine"-Feeling auf der Startseite
-    homeInfoParams = { Title = "The Interdisciplinary", Content = "Bridging the silos between academic fields." }
+    
+    # Bilder für Browser-Tabs und Social Media (LinkedIn)
+    favicon = "/images/logo-square.png"
+    images = ["/images/banner.png"]
 
+    # hier der versuch die seite verstehen zu lassen, dass er bei themewechsel das bild invertieren muss
+    defaultTheme = "auto"
+    displayThemeToggle = true
+
+    # --- STARTSEITE (Profile Mode) ---
+    # Dies ist das Herzstück deiner Landingpage
+    [params.profileMode]
+        enabled = true
+        title = "The Interdisciplinary"
+        subtitle = "Exploring the Foundation in the Pursuit of Truth."
+        imageUrl = "/images/logo-square.png"
+        imageWidth = 150
+        imageHeight = 150
+    [[params.profileMode.buttons]]
+        name = "Read the Journal"
+        url = "/posts"
+
+    # --- LOGO OBEN LINKS (Menüleiste) ---
+    [params.label]
+        text = "The Interdisciplinary"
+        icon = "/images/logo-square.png"
+        iconHeight = 35
+
+# --- NAVIGATION ---
 [menu]
     [[menu.main]]
         identifier = "Mission"

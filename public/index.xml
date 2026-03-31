@@ -4,16 +4,53 @@
     <title>The Interdisciplinary</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on The Interdisciplinary</description>
+    <image>
+      <title>The Interdisciplinary</title>
+      <url>http://localhost:1313/images/banner.png</url>
+      <link>http://localhost:1313/images/banner.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2026 23:51:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Vision</title>
+      <title>Mission Statement</title>
       <link>http://localhost:1313/posts/the-vision/</link>
       <pubDate>Mon, 30 Mar 2026 23:51:50 +0200</pubDate>
       <guid>http://localhost:1313/posts/the-vision/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;our-vision-grasping-the-big-picture&#34;&gt;Our Vision: Grasping the Big Picture&lt;/h1&gt;
+&lt;p&gt;We break through the flood of information with analyses that are objective and fact-based from multiple perspectives. We believe that understanding and the pursuit of truth begin with critical questioning.&lt;/p&gt;
+&lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;
+&lt;p&gt;In a global society where choices are often based on unfounded reasons and dominated by the status quo, there is an increasing danger that decisions are not critically questioned as they should be. When political and social discourse is increasingly driven by emotions rather than arguments, the autonomy of the individual suffers. This is exactly where &amp;ldquo;The Interdisciplinary&amp;rdquo; comes in. We reflect on complex topics from different disciplines and perspectives. Our goal is to replace the blind spot of emotional perception with well-founded objectivity. We want to provide the tools that lead to a nuanced opinion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal &amp; Privacy</title>
+      <link>http://localhost:1313/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/</guid>
+      <description>&lt;h1 id=&#34;imprint-legal-notice&#34;&gt;Imprint (Legal Notice)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Information according to § 5 TMG:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Interdisciplinary neV &lt;!-- raw HTML omitted --&gt;
+c/o Julius Jonathan Haunschild &lt;!-- raw HTML omitted --&gt;
+Waldstraße 10 &lt;!-- raw HTML omitted --&gt;
+67346 Speyer &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;mailto:theinterdisciplinary@outlook.de&#34;&gt;theinterdisciplinary@outlook.de&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
+&lt;h2 id=&#34;1-general-information&#34;&gt;1. General Information&lt;/h2&gt;
+&lt;p&gt;The operator of this website takes the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this Privacy Policy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Mission</title>
+      <link>http://localhost:1313/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mission/</guid>
+      <description>&lt;h1 id=&#34;our-vision&#34;&gt;Our Vision:&lt;/h1&gt;
+&lt;h2 id=&#34;grasping-the-big-picture&#34;&gt;Grasping the Big Picture&lt;/h2&gt;
+&lt;p&gt;We break through the flood of information with analyses that are objective and fact-based from multiple perspectives. We believe that understanding and the pursuit of truth begin with critical questioning.&lt;/p&gt;
+&lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;
+&lt;p&gt;In a global society where choices are often based on unfounded reasons and dominated by the status quo, there is an increasing danger that decisions are not critically questioned as they should be. When political and social discourse is increasingly driven by emotions rather than arguments, the autonomy of the individual suffers. This is exactly where &amp;ldquo;The Interdisciplinary&amp;rdquo; comes in. We reflect on complex topics from different disciplines and perspectives. Our goal is to replace the blind spot of emotional perception with well-founded objectivity. We want to provide the tools that lead to a nuanced opinion.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -71,14 +71,46 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><meta property="og:url" content="http://localhost:1313/categories/">
+</script><style>
+     
+    a { color: #003399; }
+    .button { background: #003399 !important; color: white !important; border-radius: 6px; }
+
+     
+     
+    
+    :root[data-theme="dark"] a,
+    [data-theme="dark"] .nav a,
+    [data-theme="dark"] .menu a,
+    [data-theme="dark"] header a,
+    [data-theme="dark"] footer a {
+        color: #ffffff !important;
+    }
+
+     
+    :root[data-theme="dark"] .button,
+    [data-theme="dark"] .button a {
+        background: #003399 !important;
+        color: #ffffff !important;
+    }
+
+     
+    :root[data-theme="dark"] .footer a {
+        color: #b1b1b1 !important;
+    }
+
+     
+    .logo img { filter: none !important; }
+</style><meta property="og:url" content="http://localhost:1313/categories/">
   <meta property="og:site_name" content="The Interdisciplinary">
   <meta property="og:title" content="Categories">
   <meta property="og:description" content="A Journal for Science, Philosophy and Society">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
+      <meta property="og:image" content="http://localhost:1313/images/banner.png">
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/images/banner.png">
   <meta name="twitter:title" content="Categories">
   <meta name="twitter:description" content="A Journal for Science, Philosophy and Society">
 
@@ -87,7 +119,9 @@
     <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="The Interdisciplinary (Alt + H)">The Interdisciplinary</a>
+            <a href="http://localhost:1313/" accesskey="h" title="The Interdisciplinary (Alt + H)">
+                <img src="http://localhost:1313/images/logo-square.png" alt="" aria-label="logo"
+                    height="35">The Interdisciplinary</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -113,8 +147,13 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/about" title="About">
-                    <span>About</span>
+                <a href="http://localhost:1313/mission" title="Our Mission">
+                    <span>Our Mission</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/legal" title="Legal &amp; Privacy">
+                    <span>Legal &amp; Privacy</span>
                 </a>
             </li>
         </ul>
