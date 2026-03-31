@@ -18,6 +18,6 @@ theme = "PaperMod"
         weight = 10
     [[menu.main]]
         identifier = "legal"
-        name = "Legal Notice"
+        name = "Legal & Privacy"
         url = "/legal"
         weight = 20
