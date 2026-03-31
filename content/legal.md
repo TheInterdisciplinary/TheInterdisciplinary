@@ -31,4 +31,4 @@ This website is hosted by GitHub, Inc. (88 Colin P. Kelly Jr. St., San Francisco
 This website does not use cookies, tracking tools, or contact forms that store personal data on our servers. 
 
 ## 4. Your Rights
-You have the right to receive information about the origin, recipient, and purpose of your stored personal data free of charge at any time. You also have the right to request the correction or deletion of this data. For this purpose, you can contact us at the address provided in the Imprint.
+As this is a static website, the operator does not collect, store, or process any personal data from visitors. For data processed by the hosting provider (GitHub), please refer to their privacy policy.
