@@ -4,17 +4,17 @@ title = "The Interdisciplinary"
 theme = "PaperMod"
 
 [params]
-    env = "production"
     title = "The Interdisciplinary"
     description = "A Journal for Science, Philosophy and Society"
-    
-    # Bilder für Browser-Tabs und Social Media (LinkedIn)
-    favicon = "/images/logo-square.png"
-    images = ["/images/banner.png"]
 
-    # hier der versuch die seite verstehen zu lassen, dass er bei themewechsel das bild invertieren muss
+    # Theme-Einstellungen (Automatischer Wechsel & Button)
     defaultTheme = "auto"
     displayThemeToggle = true
+
+    # Bilder für Browser-Tabs und Social Media (LinkedIn)
+    [params.assets]
+        favicon = "/images/logo-square.png"
+        images = ["/images/banner.png"]
 
     # --- STARTSEITE (Profile Mode) ---
     # Dies ist das Herzstück deiner Landingpage
