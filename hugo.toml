@@ -12,7 +12,12 @@ theme = "PaperMod"
 
 [menu]
     [[menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "Mission"
+        name = "Our Mission"
+        url = "/mission"
         weight = 10
+    [[menu.main]]
+        identifier = "legal"
+        name = "Legal Notice"
+        url = "/legal"
+        weight = 20
