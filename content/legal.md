@@ -7,13 +7,13 @@ layout: "page"
 
 **Information according to § 5 TMG:**
 
-The Interdisciplinary neV <br>
-c/o Julius Jonathan Haunschild <br>
-Waldstraße 10 <br>
-67346 Speyer <br>
+The Interdisciplinary neV  
+c/o Julius Jonathan Haunschild  
+Waldstraße 10  
+67346 Speyer  
 
-**Contact:** <br>
-theinterdisciplinary@outlook.de
+**Contact:**  
+theinterdisciplinary@outlook.de  
 
 
 ---
