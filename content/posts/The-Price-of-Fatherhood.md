@@ -37,4 +37,4 @@ In the case of Jens Spahn, one can only speculate if his professional opinion mi
 
 [^1]: Statistisches Bundesamt – „Germany has third-highest minimum wage in the EU“ https://www.destatis.de/Europa/EN/Topic/Population-Labour-Social-Issues/Labour-market/MinimumWages.html
 
-[^2]: Friedrich Merz on „X“ - https://x.com/_FriedrichMerz/status/2078457755644359038
+[^2]: Friedrich Merz on „X“ - https://x.com/_FriedrichMerz/status/2078457755644359038  
