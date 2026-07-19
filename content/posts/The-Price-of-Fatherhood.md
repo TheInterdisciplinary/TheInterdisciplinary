@@ -2,6 +2,7 @@
 date = '2026-07-19'
 draft = false
 title = 'The Price of Fatherhood: Jens Spahn vs. The Party Head'
+author = 'Julius Jonathan Haunschild'
 +++
 
 The Head of the Christian Democratic Union (CDU), Jens Spahn, succumbed to the pressure and stepped down from his position, following backlash of having a surrogate mother in the US deliver a baby for him and his husband.
