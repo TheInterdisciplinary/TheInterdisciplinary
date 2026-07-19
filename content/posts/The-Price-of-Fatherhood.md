@@ -35,5 +35,6 @@ This conflict shows another question that public figures need to face: Can polit
 
 In the case of Jens Spahn, one can only speculate if his professional opinion might also have been a private one, which was overcome by a personal wish to have a child of his own. The chancellor called the withdrawal from Mr. Spahn’s political position “inevitable”, which underscores how the former head of the CDU must have known that his decision to pursue his dream of a child with his husband will cost him his political position roughly nine Months ago[^2].
 
-[^1]. Statistisches Bundesamt – „Germany has third-highest minimum wage in the EU“ https://www.destatis.de/Europa/EN/Topic/Population-Labour-Social-Issues/Labour-market/MinimumWages.html
-[^2]. Friedrich Merz on „X“ - https://x.com/_FriedrichMerz/status/2078457755644359038
+[^1]: Statistisches Bundesamt – „Germany has third-highest minimum wage in the EU“ https://www.destatis.de/Europa/EN/Topic/Population-Labour-Social-Issues/Labour-market/MinimumWages.html
+
+[^2]: Friedrich Merz on „X“ - https://x.com/_FriedrichMerz/status/2078457755644359038
