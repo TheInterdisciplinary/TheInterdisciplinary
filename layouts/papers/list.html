@@ -21,11 +21,15 @@
   <header class="entry-header">
     <h2>{{ .Title }}</h2>
   </header>
-  {{- with .Params.authors }}
   <div class="paper-list-authors">
-    {{- if reflect.IsSlice . }}{{ delimit . ", " }}{{- else }}{{ . }}{{- end }}
+    {{- with .Params.authors }}
+      {{- if reflect.IsSlice . }}{{ delimit . ", " }}{{- else }}{{ . }}{{- end }}
+    {{- end }}
+    {{- if and .Params.authors (not .Date.IsZero) }} · {{ end -}}
+    {{- if not .Date.IsZero }}
+      <span>{{ .Date.Format "January 2, 2006" }}</span>
+    {{- end }}
   </div>
-  {{- end }}
   <a class="entry-link" aria-label="paper link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}

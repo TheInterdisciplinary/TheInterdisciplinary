@@ -3,8 +3,8 @@ title: "Capitalism and the Law in the Eyes of Max Weber"
 authors: ["Haunschild, Julius Jonathan"]
 affiliation: "The Interdisciplinary"
 date: 2025-01-10
-paper_type: "Working Paper"
-pages: 19
+paper_type: "Research Paper"
+pages: 17
 keywords:
   - "Max Weber"
   - "Capitalism"
