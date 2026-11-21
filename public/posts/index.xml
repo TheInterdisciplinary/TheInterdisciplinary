@@ -2,22 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Articles on The Interdisciplinary</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://theinterdisciplinary.org/posts/</link>
     <description>Recent content in Articles on The Interdisciplinary</description>
-    <image>
-      <title>The Interdisciplinary</title>
-      <url>http://localhost:1313/images/banner.png</url>
-      <link>http://localhost:1313/images/banner.png</link>
-    </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 23:51:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://theinterdisciplinary.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Price of Fatherhood: Jens Spahn vs. The Party Head</title>
+      <link>https://theinterdisciplinary.org/posts/the-price-of-fatherhood/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://theinterdisciplinary.org/posts/the-price-of-fatherhood/</guid>
+      <description>&lt;p&gt;The head of the Christian Democratic Union (CDU), Jens Spahn, succumbed to the pressure and stepped down from his position, following backlash of having a surrogate mother in the United States deliver a baby for him and his husband.&lt;/p&gt;
+&lt;p&gt;The reaction from his political peers was homogeneous, both from the opposing parties and from his own. While some wished him well, most made a point about authenticity with Spahn politically being against the practice of surrogacy, even going so far as supporting legislature against it, and then having a child this way all the same.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mission Statement</title>
-      <link>http://localhost:1313/posts/the-vision/</link>
+      <link>https://theinterdisciplinary.org/posts/the-vision/</link>
       <pubDate>Mon, 30 Mar 2026 23:51:50 +0200</pubDate>
-      <guid>http://localhost:1313/posts/the-vision/</guid>
+      <guid>https://theinterdisciplinary.org/posts/the-vision/</guid>
       <description>&lt;h1 id=&#34;our-vision-grasping-the-big-picture&#34;&gt;Our Vision: Grasping the Big Picture&lt;/h1&gt;
 &lt;p&gt;We break through the flood of information with analyses that are objective and fact-based from multiple perspectives. We believe that understanding and the pursuit of truth begin with critical questioning.&lt;/p&gt;
 &lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;

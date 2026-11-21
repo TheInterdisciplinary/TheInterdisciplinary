@@ -2,21 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://theinterdisciplinary.org/posts/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://theinterdisciplinary.org/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://theinterdisciplinary.org/posts/the-price-of-fatherhood/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://theinterdisciplinary.org/posts/the-vision/</loc>
     <lastmod>2026-03-30T23:51:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the-vision/</loc>
-    <lastmod>2026-03-30T23:51:50+02:00</lastmod>
+    <loc>https://theinterdisciplinary.org/papers/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-30T23:51:50+02:00</lastmod>
+    <loc>https://theinterdisciplinary.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://theinterdisciplinary.org/legal/</loc>
   </url><url>
-    <loc>http://localhost:1313/legal/</loc>
+    <loc>https://theinterdisciplinary.org/mission/</loc>
   </url><url>
-    <loc>http://localhost:1313/mission/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://theinterdisciplinary.org/tags/</loc>
   </url>
 </urlset>
