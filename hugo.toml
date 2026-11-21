@@ -28,6 +28,9 @@ theme = "PaperMod"
     [[params.profileMode.buttons]]
         name = "Read the Journal"
         url = "/posts"
+    [[params.profileMode.buttons]]
+        name = "Research Papers"
+        url = "/papers"
 
     # --- LOGO OBEN LINKS (Menüleiste) ---
     [params.label]
